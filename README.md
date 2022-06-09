@@ -24,5 +24,3 @@ Procedures of building:
 7. Continue doing in through all test cases and achieve an accuracy of over 98% consistently. False positive is low at around 1~2%, which is the most cared matrix
 <img width="414" alt="Capture" src="https://user-images.githubusercontent.com/96327756/172742159-c3ccabc6-02f4-4c9e-82cf-2c4d2c210ea5.PNG">
 
-[Read more about the explanation here:
-https://docs.google.com/presentation/d/1TZw5V4P4-U35-GYLUUE1A2kBXk38ldcwvqb3ToMuIuk/edit#slide=id.g10863998cc3_0_36
